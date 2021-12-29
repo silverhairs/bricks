@@ -1,0 +1,5 @@
+bricks:
+  hello:
+    path: bricks/hello
+  authentication:
+    path: bricks/authentication
